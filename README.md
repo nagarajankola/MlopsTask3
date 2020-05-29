@@ -13,8 +13,8 @@ This project documentation is for data scientists and ML engineers who want to a
  Build the images using the dockerfile given in Dockerfile folder 
  here we created the two images both with different libraries installed, keras and sckit-learn respectively.
  We will be configuring the image in such a way that as soon as the container is launched using these image along with the model it should automatically starts to train the model.
- ![](screenshots/docker file for sckit-learn.png)
- ![](screenshots/docker file for keras.png)
+ ![](screenshots/d1.png)
+ ![](screenshots/d2.png)
      
      - docker build -t your_image_name:version .
       
