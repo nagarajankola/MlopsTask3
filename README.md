@@ -18,9 +18,9 @@ This project documentation is for data scientists and ML engineers who want to a
 1) **JOB1**:
 Checks the github repository for every one minute and if any developer pushes the code to github jenkins download the code and datasets and then copy it to developer folder in base system 
    
-![](images/j11.png)
-![](images/j12.png)
-![](images/j13.png)
+![](screenshots/j11.png)
+![](screenshots/j12.png)
+![](screenshots/j13.png)
 
 
 2) **JOB2**:
