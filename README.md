@@ -34,9 +34,8 @@ checks the downloaded the code and analyses wheather it's a CNN/ANN/LINEAR_REGRE
        then
          sudo docker run -t -v /root/developer/:/hello/ --rm   sklearn:v1 /hello/keras.py
        fi
-![](images/image4.png)
-
-
+![](screenshots/j21.png)
+![](screenshots/j22.png)
 
 
 3) **JOB3**:
@@ -77,18 +76,19 @@ when the desired accuracy is achieved then **JOB4** take the role in play
        sudo git push
        exit 1
 
-![](images/image5.png)
+![](screenshots/j31.png)
 
 
 4)**JOB4**:
 Notifies the developer that the best model has been impelmented through email format
 
-![](images/image8.png)
+![](screenshots/j41.png)
 
 5)**JOB5**:
 jenkins job5 takes the updated code and trained model weights and  updates it to github repository.
 
-![](images/images.png)
+![](screenshots/j51.png)
+![](screenshots/j51.png)
 
 
 
@@ -99,4 +99,4 @@ jenkins job5 takes the updated code and trained model weights and  updates it to
 
 
 
-***In collobration with : nagaraj ankola.***
+***In collobration with : madan naik.***
