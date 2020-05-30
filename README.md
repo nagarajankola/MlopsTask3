@@ -99,7 +99,7 @@ jenkins job5 takes the updated code and trained model weights and  updates it to
  
  
 ![](screenshots/j51.png)
-![](screenshots/j51.png)
+![](screenshots/j52.png)
 
 
 
